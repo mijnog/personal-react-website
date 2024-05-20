@@ -1,0 +1,3 @@
+#!/bin/bash
+#run development server for react
+npm run dev
